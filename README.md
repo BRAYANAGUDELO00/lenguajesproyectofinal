@@ -13,6 +13,7 @@ y seguido vas a nuestro tercer apartado de vuelos, nuestro apartado te da opcion
 - Cuando deseas viajar
 - Cuando deseas regresar
 - Cantidad de personas que viajan
+
 Y listo agregas al carrito y automaticamente tendras un apartado al final de la pagina que te dira cuanto sera el total del costo de esta travesia.
 Si deseas contactarnos abajo del apartado total tendras un boton de direccionacimiento para que hables con nosotros y si aprovechas este mes tendremos
 SUPER DESCUENTOS EN TODOS NUESTROS ALOJAMIENTOS ALIADOS
